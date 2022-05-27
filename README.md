@@ -1,5 +1,7 @@
 # Boilerplate for building Django Containers 
 
+[![Docker Image CI](https://github.com/jharleydev/django-container-template/actions/workflows/docker-build-push.yml/badge.svg?branch=main)](https://github.com/jharleydev/django-container-template/actions/workflows/docker-build-push.yml)
+
 Standard starter template for django.
 
 ## Build Docker Image 
