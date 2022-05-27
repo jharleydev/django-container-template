@@ -1,8 +1,6 @@
 # Boilerplate for building Django Containers 
 
-[![Docker Image CI](https://github.com/jharleydev/django-container-template/actions/workflows/docker-build-push.yml/badge.svg?branch=main)](https://github.com/jharleydev/django-container-template/actions/workflows/docker-build-push.yml)
-
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://github.com/jharleydev/django-container-template)
+[![Docker Image CI](https://github.com/jharleydev/django-container-template/actions/workflows/docker-build-push.yml/badge.svg?branch=main)](https://github.com/jharleydev/django-container-template/actions/workflows/docker-build-push.yml)   [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](gitpod#https://github.com/jharleydev/django-container-template)
 
 
 Standard starter template for django.
