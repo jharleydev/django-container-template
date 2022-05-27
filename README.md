@@ -6,7 +6,7 @@ Standard starter template for django.
 
 `docker build -t <name> .` 
 
-This will build your container from the `dockerfile`. Feel free to change the dockerfile to fit your use case.
+This will build your container from the `Dockerfile`. Feel free to change the dockerfile to fit your use case.
 
 ## Run the container interactively
 
