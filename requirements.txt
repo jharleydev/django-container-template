@@ -86,7 +86,7 @@ poetry==1.1.13
 poetry-core==1.0.8
 prometheus-client==0.14.1
 prompt-toolkit==3.0.29
-protobuf==3.20.1
+protobuf==3.20.2
 psutil==5.9.0
 ptyprocess==0.7.0
 pulumi==3.33.1
